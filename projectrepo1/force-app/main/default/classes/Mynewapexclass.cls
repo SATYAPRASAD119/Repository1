@@ -6,7 +6,7 @@ public class Mynewapexclass {
 
         Syatem.debug('reode one4');
         Syatem.debug('reode one5');
-        Syatem.debug('reode one5');
+        
 
 
 
