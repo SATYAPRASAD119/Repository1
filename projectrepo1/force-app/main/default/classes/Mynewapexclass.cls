@@ -1,5 +1,5 @@
 public class Mynewapexclass {
 
-    Syatem.debug('reode one');
+    Syatem.debug('reode one1');
 
 }
